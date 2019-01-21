@@ -3,6 +3,8 @@
 	"displayName": "Hover Cursor",
 	"description": "Trigger hover automatically on your cursor",
 	"version": "0.0.1",
+	"publisher": "thieman",
+	"repository": "https://github.com/thieman/hover-cursor",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
