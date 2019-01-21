@@ -21,7 +21,7 @@
 			"properties": {
 				"hover-cursor.delay": {
 					"type": "number",
-					"default": 300,
+					"default": 1000,
 					"description": "Delay to show hover on cursor, in milliseconds"
 				}
 			}

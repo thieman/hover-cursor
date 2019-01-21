@@ -6,7 +6,7 @@ This extension automatically triggers hover on your cursor in VSCode.
 
 The extension includes a single configuration setting and zero commands.
 
-* `hover-cursor.delay`: Delay to show hover on cursor, in milliseconds (default 300)
+* `hover-cursor.delay`: Delay to show hover on cursor, in milliseconds (default 1000)
 
 ### 0.0.1
 
