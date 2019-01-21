@@ -30,7 +30,6 @@ function maybeTriggerHover(): void {
 	}
 
 	if (now > lastCheck.time + vscode.workspace.getConfiguration('hover-cursor').delay) {
-		console.log('Running hover');
 		lastCheck = {position, time: now};
 		vscode.commands.executeCommand('editor.action.showHover');		
 	}	
